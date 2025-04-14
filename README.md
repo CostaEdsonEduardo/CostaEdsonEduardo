@@ -4,10 +4,10 @@ Me chamo **Edson** e sou apaixonado(a) por tecnologia, desenvolvimento de softwa
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor(a) com foco em [sua stack principal]
-- 🎯 Interesses: [ex: Desenvolvimento Web, Data Science, DevOps, IA]
+- 💻 Desenvolvedor(a) com foco em PHP/Laravel
+- 🎯 Interesses: 
 - 📚 Sempre em busca de novos conhecimentos
-- 🌱 Atualmente aprendendo: [tecnologias, linguagens ou conceitos atuais]
+- 🌱 Atualmente aprendendo:
 - 🤝 Aberto(a) a colaborações em projetos legais e desafiadores!
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -23,9 +23,8 @@ Me chamo **Edson** e sou apaixonado(a) por tecnologia, desenvolvimento de softwa
 
 ## 🌐 Onde me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO)
-- [Portfólio ou Site Pessoal](https://seudominio.com) *(se houver)*
-- Email: seuemail@exemplo.com
+- [LinkedIn](https://www.linkedin.com/in/edson-eduardo-lima/)
+- Email:
 
 ---
 
