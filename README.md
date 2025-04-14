@@ -1,6 +1,6 @@
 # 👋 Olá, seja bem-vindo(a) ao meu perfil no GitHub!
 
-Me chamo **[Seu Nome]** e sou apaixonado(a) por tecnologia, desenvolvimento de software e por aprender algo novo todos os dias. Aqui no meu GitHub, você vai encontrar projetos pessoais, contribuições em open source e experimentos que desenvolvo por curiosidade e aprendizado.
+Me chamo **Edson** e sou apaixonado(a) por tecnologia, desenvolvimento de software e por aprender algo novo todos os dias. Aqui no meu GitHub, você vai encontrar projetos pessoais, contribuições em open source e experimentos que desenvolvo por curiosidade e aprendizado.
 
 ## 🚀 Sobre mim
 
