@@ -21,11 +21,6 @@ Me chamo **[Seu Nome]** e sou apaixonado(a) por tecnologia, desenvolvimento de s
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 <!-- Adicione/remova tecnologias conforme necessário -->
 
-## 📈 Estatísticas do GitHub
-
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark)
-
 ## 🌐 Onde me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO)
