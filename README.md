@@ -1,31 +1,30 @@
-# 👋 Olá, seja bem-vindo(a) ao meu perfil no GitHub!
+# 👋 Hello!, welcome to my GitHub profile!
 
-Me chamo **Edson** e sou apaixonado(a) por tecnologia, desenvolvimento de software e por aprender algo novo todos os dias. Aqui no meu GitHub, você vai encontrar projetos pessoais, contribuições em open source e experimentos que desenvolvo por curiosidade e aprendizado.
+My name is **Edson** and I'm passionate about technology, software development and learning something new every day. Here on my profile you'll find personal projects, contributions to open source projects and experiments.
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-- 💻 Desenvolvedor(a) com foco em PHP/Laravel
-- 🎯 Interesses: 
-- 📚 Sempre em busca de novos conhecimentos
-- 🌱 Atualmente aprendendo:
-- 🤝 Aberto(a) a colaborações em projetos legais e desafiadores!
+- 💻 Software developer specialist in PHP/Laravel
+- 🎯 Interests: ERP, CRM, management in general.
+- 📚 Alaways searching for something new
+- 🌱 Learning: AI, Vue.js, React Native
+- 🤝 Let's talk!
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-6586DB?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-f5370b?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-6586DB?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-<!-- Adicione/remova tecnologias conforme necessário -->
 
-## 🌐 Onde me encontrar
+## 🌐 Find me
 
 - [LinkedIn](https://www.linkedin.com/in/edson-eduardo-lima/)
-- Email:
+- Email: costaedsoneduardo@gmail.com
 
 ---
 
-⭐️ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e conectar-se comigo.
+⭐️ Thank you for visiting my profile!
