@@ -1,4 +1,4 @@
-# 👋 Hello!, welcome to my GitHub profile!
+# 👋 Hello! welcome to my GitHub profile!
 
 My name is **Edson** and I'm passionate about technology, software development and learning something new every day. Here on my profile you'll find personal projects, contributions to open source projects and experiments.
 
