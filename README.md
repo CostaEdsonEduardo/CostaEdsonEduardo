@@ -4,7 +4,7 @@ My name is **Edson** and I'm passionate about technology, software development a
 
 ## 🚀 About me
 
-- 💻 Software developer specialist in PHP/Laravel
+- 💻 Mid-level PHP/Laravel software developer
 - 🎯 Interests: ERP, CRM, management in general.
 - 📚 Alaways searching for something new
 - 🌱 Learning: AI, Vue.js, React Native
@@ -25,6 +25,7 @@ My name is **Edson** and I'm passionate about technology, software development a
 ## 🌐 Find me
 
 - [LinkedIn](https://www.linkedin.com/in/edson-eduardo-lima/)
+- [Behance](https://www.behance.net/edsoneeduardocosta)
 - Email: costaedsoneduardo@gmail.com
 
 ---
