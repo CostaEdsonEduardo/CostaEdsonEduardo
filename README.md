@@ -21,6 +21,7 @@ My name is **Edson** and I'm passionate about technology, software development a
 ![Vuejs](https://img.shields.io/badge/Vue.js-3fb984?style=flat&logo=vue.js&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/ReactNative-61dafb?style=flat&logo=react&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-E34F26?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-61dafb?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 🌐 Find me
