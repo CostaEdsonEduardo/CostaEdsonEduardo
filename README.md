@@ -17,9 +17,10 @@ My name is **Edson** and I'm passionate about technology, software development a
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/php-6586DB?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-f5370b?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-6586DB?style=flat&logo=mysql&logoColor=white)
 ![Vuejs](https://img.shields.io/badge/Vue.js-3fb984?style=flat&logo=vue.js&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/ReactNative-61dafb?style=flat&logo=react&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-6586DB?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-E34F26?style=flat&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 🌐 Find me
